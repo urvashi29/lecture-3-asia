@@ -1,0 +1,15 @@
+/* css selector
+combinators */
+
+/* universal
+* {} */
+
+/* element
+p {} */
+
+
+.error-message,
+#message {
+    color: red;
+}
+
